@@ -28,9 +28,10 @@ twitter_username: dsethlewis
 github_username:  dsethlewis
 
 # Build settings
-theme: minima
+remote-theme: zivong/ockham
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
