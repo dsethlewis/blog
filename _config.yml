@@ -28,7 +28,7 @@ twitter_username: dsethlewis
 github_username:  dsethlewis
 
 # Build settings
-remote-theme: zivong/ockham
+remote-theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
