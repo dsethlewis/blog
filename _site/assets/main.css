@@ -194,3 +194,16 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+
+body { color: #dadada; background-color: #000013; }
+
+a, a:visited, a:hover { color: #65afc2; }
+
+/** Code formatting */
+pre, code { border: 0px solid #e8e8e8; background-color: #252525; }
+
+.highlighter-rouge .highlight { background-color: #252525; }
+
+.site-title, .site-title:visited { color: #dadada; }
+
+.site-nav .page-link { color: #dadada; }
