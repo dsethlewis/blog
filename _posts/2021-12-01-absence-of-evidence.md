@@ -2,6 +2,7 @@
 layout: post
 title: "An absence of evidence of community policing"
 date: 2021-12-01 13:44:00 -0500
+categories: research
 ---
 
 The lead research article of the most recent issue of *Science* is ["Community policing does not build citizen trust in police or reduce crime in the Global South"](https://www.science.org/doi/10.1126/science.abd3446).

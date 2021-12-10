@@ -2,6 +2,7 @@
 layout: post
 title: "Trust in science rises, still low overall"
 date: 2021-12-06 12:28:08 -0500
+categories: research
 ---
 
 The *Times* [reported](https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html) late last month on new data from a [Wellcome/Gallup poll](https://wellcome.org/reports/wellcome-global-monitor-covid-19/2020). The headline finding was that "trust in science and scientists increased globally" between 2018 and 2020. The report notes that trust in science is correlated with knowing about science and speculates that the change in public attitudes was due to media coverage during the pandemic that brought people closer to scientists and scientific research.

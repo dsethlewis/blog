@@ -2,6 +2,7 @@
 layout: post
 title: "How artificial intelligence augments human intelligence"
 date: 2021-12-06 12:28:08 -0500
+categories: research
 ---
 
 In the debate about how artificial intelligence (AI) affects employment and productivity, the two sides argue something like the following:
